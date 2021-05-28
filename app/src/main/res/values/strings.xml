@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApps</string>
+    <string name="home">Home</string>
+    <string name="my_plan">My Plan</string>
+    <string name="academy">Academy</string>
+    <string name="me">Me</string>
+</resources>
